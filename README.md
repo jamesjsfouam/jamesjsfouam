@@ -74,8 +74,8 @@ I build data-driven software systems at the intersection of **software engineeri
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jamesjsfouam&show_icons=true&hide_border=true&theme=tokyonight" alt="James's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesjsfouam&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamesjsfouam&theme=tokyonight" alt="James's GitHub Stats" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jamesjsfouam&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
